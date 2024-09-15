@@ -1,6 +1,6 @@
 {
   "name": "digital-time",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "description": "A reusable digital clock component for React",
   "main": "dist/index.js",
