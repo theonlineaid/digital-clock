@@ -1,5 +1,5 @@
 import './App.css'
-import DigitalClock from './assets/comp/DigitalClock'
+import DigitalClock from './components/DigitalClock'
 
 function App() {
 

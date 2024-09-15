@@ -6,7 +6,7 @@ A reusable digital clock component for React that can be customized with various
 ## Features
 
 - Digital clock display (hours, minutes, seconds, AM/PM)
-- Customizable text color, font size, font weight, width, and height
+- Customizable text color, font size, and font weight
 - Works seamlessly with React and TypeScript
 
 ## Installation
@@ -34,8 +34,6 @@ function App() {
         textColor="blue" 
         fontSize="24px" 
         fontWeight="bold"
-        width="150px" 
-        height="50px" 
       />
     </div>
   );

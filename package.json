@@ -1,10 +1,10 @@
 {
   "name": "digital-time",
   "private": false,
-  "version": "0.0.0",
+  "version": "0.2.0", 
   "description": "A reusable digital clock component for React",
   "main": "dist/index.js",
-  "module": "dist/index.esm.js", 
+  "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "type": "module",
   "scripts": {
