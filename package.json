@@ -1,5 +1,5 @@
 {
-  "name": "digital-clock",
+  "name": "digital-time",
   "private": true,
   "version": "0.0.0",
   "description": "A reusable digital clock component for React",

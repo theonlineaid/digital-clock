@@ -5,4 +5,4 @@ A customizable digital clock component for React.
 ## Installation
 
 ```bash
-npm install digital-clock
+npm install digital-time
